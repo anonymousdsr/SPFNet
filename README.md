@@ -2,7 +2,7 @@
 
 ## Datasets
 
-Since the large size of the NYU-v2 and RGB-D-D datasets, we have only uploaded the Lu and Middlebury datasets, which can be found  in the ``dataset``.
+Since the large size of the NYU-v2 and RGB-D-D datasets, we have only uploaded the Lu and Middlebury datasets, which can be found  in the ``datasets``.
 
 ## Models
 
